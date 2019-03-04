@@ -9,7 +9,5 @@ Jon's LMS
 RubyGems
 https://rubygems.org/
 
-
-
 Canvas
 <!-- Need a link here -->
